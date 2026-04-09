@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hi
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is about me posting stuff about blogs. Do not mind as it just me posting random stuff of blogs that I experience is all.
