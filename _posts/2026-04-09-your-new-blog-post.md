@@ -1,4 +1,4 @@
-## My First Week Learning GitHub (And Why git pull origin Was So Annoying
+## My First Week Learning GitHub (And Why git pull origin Was So Annoying)
 
 For this week, setting up a staging area was actually pretty simple. I ended up using Google Docs for it. I know it mentioned that I didn’t really need to use a Google document, but honestly, I still went with it because it’s just easier to organize my thoughts there.
 
