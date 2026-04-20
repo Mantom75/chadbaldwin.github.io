@@ -1,4 +1,4 @@
-## Linux Lab Annoyance: Timeouts, and Errors.
+## Linux Lab annoyance: Timeouts, and Errors.
 
 For my second week in class, I had a lot of annoyance than I expected—especially with the labs.
 
@@ -15,6 +15,8 @@ I’ll admit, I feel quite annoying that I might be falling behind a bit.
 There’s a lot of reading, labs, lesson reviews, and quizzes, and it adds up very quickly.
 
 It’s definitely a bit annoying, but I’m trying to keep up and focus.
+
+Here’s a quick SQL example I worked with as well:
 
 SELECT *
 FROM sys.tables
